@@ -17,15 +17,20 @@ header {
     background-position: center;
 }
 
-.titulo {
-    font-family: 'Merienda One', cursive;
-    padding-top: 180px;
-    color: rgb(223, 160, 234);
-    font-size: 65px;
-    
+.nav-style {
+background-color: rgb(223, 160, 234);
 }
+
+.titulo {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 40px;
+    padding-top: 70px;
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+}
+
 h2 {
-    font-family: 'Merienda One', cursive;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(223, 160, 234);
 }
 .color1 {
@@ -48,6 +53,9 @@ h2 {
 
 .foto {
     width: 300px;
+    border-radius: 15px 50px;
+    padding: 10px;
+    border: 2px solid rgb(223, 160, 234);
 }
 
 .cardwidth {
@@ -63,7 +71,15 @@ height: 300px
     font-size: 40px;
 }
 
+.padding1 {
+    padding-top: 100px;
+}
+
 .padding2 {
     padding-top: 100px;
+}
+
+.title-style{
+    color: rgb(223, 160, 234);
 }
 
